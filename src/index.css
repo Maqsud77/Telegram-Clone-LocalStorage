@@ -1,0 +1,47 @@
+.Sider {
+    height: 100vh;
+    background-color: darkgray;
+}
+
+.Sider li:hover {
+    background-color: cadetblue;
+    color: white;
+    cursor: pointer;
+}
+
+.content {
+    background-color: burlywood;
+    height: 100vh;
+    position: relative;
+}
+
+.header {
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+.input {
+    position: absolute;
+    bottom: 0;
+}
+
+.send {
+    width: 100px;
+}
+
+.toID {
+margin-left: 860px;
+}
+
+.message {
+    background-color: darkgray;
+    border-radius: 8px;
+    display:inline-block;
+    padding:3px 8px;
+}
+.date{
+    font-weight: bold;
+    font-size: 10px;
+    margin-left: 10px;
+}
